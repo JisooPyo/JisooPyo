@@ -1,6 +1,6 @@
 Hi there 👋! I'm a BackEnd Developer.
 
-* Visit my portfolio at [here](https://sugary-curtain-79b.notion.site/b8ca190aea674b99ba306d884f414836?pvs=4)
+* Visit my portfolio at [here](https://sugary-curtain-79b.notion.site/1bf3302931334bc69d45dff8a290d11e?pvs=4)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JisooPyo&show_icons=true&theme=darcula)
 
