@@ -38,8 +38,7 @@ Hi there 👋! I'm a BackEnd Developer.
 <br>
 
 ### 💁‍♀️ How to get in touch with me
-
-<img src="https://img.shields.io/badge/blog-F3F5F7?style=flat-square&logo=tistory&logoColor=black"/>&nbsp;
+<a href="https://argente29.tistory.com/"><img src="https://img.shields.io/badge/Tistory-F3F5F7?style=flat-square&logo=tistory&logoColor=black"/></a>
 <img src="https://img.shields.io/badge/audwl326@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"/>
 
 <br><br>
