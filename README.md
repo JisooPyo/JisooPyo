@@ -34,6 +34,7 @@ Hi there 👋! I'm a BackEnd Developer.
 <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">&nbsp;
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white">
 <img src="https://img.shields.io/badge/Coda-F46A54?style=flat-square&logo=coda&logoColor=white">
+<img src="https://img.shields.io/badge/ClickUp-7B68EE?style=flat-square&logo=clickup&logoColor=white">
 
 <br>
 
